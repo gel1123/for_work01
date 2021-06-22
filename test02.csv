@@ -1,0 +1,10 @@
+key,pattern,,,
+top,2,,,
+top.name,sig,ris,mug,
+top.info,null,{},,
+top.info.code,01,02,03,04
+top.info.value,hoge,fuge,,
+top.taglist,[],,,
+top.taglist[0],tag1,tag2,,
+top.taglist[1],tag3,tag4,,
+top.taglist[2],tag5,tag6,,

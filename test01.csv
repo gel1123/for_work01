@@ -1,0 +1,12 @@
+key,pattern
+top,1
+top.name,3
+top.price,2
+top.shipTo,1
+top.shipTo.address,2
+top.shipTo.city,2
+top.shipTo.state,2
+top.taglist,1
+top.taglist[0],3
+top.taglist[1],2
+top.taglist[2],2
